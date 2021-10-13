@@ -2,6 +2,6 @@ package c3;
 
 public class new3{
     public static void main(String[] args) {
-        System.out.println ("new2");
+        System.out.println ("new3");
     }
 }
